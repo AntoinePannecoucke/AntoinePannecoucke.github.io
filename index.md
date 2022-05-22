@@ -1,10 +1,13 @@
 # Antoine Pannecoucke
-> antoine_pannecoucke@orange.fr
-> 06.04.46.68.06
 
 ## Développeur d'applications mobile
-[Linkedin](https://www.linkedin.com/in/antoine-pannecoucke-0b76a3199/)
-[GitHub](https://github.com/AntoinePannecoucke)
+> antoine_pannecoucke@orange.fr
+
+> 06.04.46.68.06
+
+> [Linkedin](https://www.linkedin.com/in/antoine-pannecoucke-0b76a3199/)
+
+> [GitHub](https://github.com/AntoinePannecoucke)
 
 ## Mes compétences
 
